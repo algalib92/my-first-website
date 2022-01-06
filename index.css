@@ -1,0 +1,76 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: large;
+    margin: 0px;
+}
+h1{
+font-size: 40px;
+}
+.coral{
+    color: teal;
+}
+.flexible{
+    display: flex;
+}
+.half-width{
+    width: 60%; 
+    padding-left: 5%;
+}
+.half-width img{
+width: 80%;
+
+}
+.link-button{
+    text-decoration: None;
+    background-image: linear-gradient(black,teal);
+    padding: 10px 40px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 600;
+
+}
+.top-banner{
+    background-image: url(bg-01-01.png);
+}
+.flexible{
+    display: flex;
+    margin-bottom: 7%;
+}
+
+.second-pera{
+    background-image: url(bg-2-01.png);
+}
+.experiance-iteam{
+    box-shadow: 10px 10px 45px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+}
+.exp{
+    background-image: url(tbg-01.png);
+    background-repeat: no-repeat;
+}
+#box-1{
+    border-left: 7px solid;
+    border-image: linear-gradient(black,teal);
+    border-image-slice: 1;
+    
+}
+#box-2{
+    border-left: 7px solid;
+    border-image: linear-gradient(black,teal);
+    border-image-slice: 1;
+
+}
+footer{
+    text-align: center;
+}
+
+
